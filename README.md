@@ -2,17 +2,22 @@
 
 <h1>Hi <a target="_blank"><img src="./assets/hi.gif" width="29px"></a></h1>
 
-#### I'm Diogo Esteves, graduated in Mechanical and Computer Engineering.
+#### I'm Diogo Esteves, graduated in Mechanical and Computer Engineering
 
 ## Developer 👨‍💻
 
-- :hourglass_flowing_sand: WIP: raspberry pie cluster, REST API in different programming Languages, temperature reader, desk with adjustable height, writing about interesting things ...
-- :information_source: Programming Languages: studying CPython Internals, **Go**, **Rust**, Java and C.
-- :computer: I’m willing to collaborate on solving problems, recreate, research and deliver new products/projects.
-- :telescope: I’m looking to help with efficiency, improve code quality, learn new things and drink some great coffee :coffee:.
-- :speech_balloon: Ask me about anything, we can together find the answer, but we already know.
-- :mailbox: How to reach me -> [Linkedin](https://www.linkedin.com/in/diogo-esteves-a4b420b7/?locale=en_US)
-- :bulb: Fun fact: studied german and french, but just used for movies :joy:.
+  :hourglass_flowing_sand: WIP: raspberry pie cluster, REST API in different programming Languages, temperature reader, desk with adjustable height, writing about interesting things ...
+
+  :information_source: Programming Languages: studying CPython Internals, **Go**, **Rust**, Java and C.
+
+  :computer: I’m willing to collaborate on solving problems, recreate, research and deliver new products/projects.
+
+  :telescope: I’m looking to help improve code quality, learn new things and drink some great coffee :coffee:.
+
+  :speech_balloon: Ask me about anything, we can together find the answer, but we already know.
+  :mailbox: How to reach me -> [Linkedin](https://www.linkedin.com/in/diogo-esteves-a4b420b7/?locale=en_US)
+
+  :bulb: Fun fact: studied german and french, but just used for movies :joy:.
 
 ## Languages and Tools
 
