@@ -1,23 +1,24 @@
 <!-- diogo main page for github profile. -->
 
-<h1>Hi <a target="_blank"><img src="./assets/hi.gif" width="29px"></a></h1>
+<h1>Hello everyone  <a target="_blank"><img src="./assets/hi.gif" width="29px"></a></h1>
 
-### I'm Diogo Esteves, graduated in Mechanical and Computer Engineering
+### I'm Diogo Esteves, graduate in Mechanical and Computer Engineering
 
 ## Developer 👨‍💻
 
-  :hourglass_flowing_sand: WIP: raspberry pie cluster using k3s, REST APIs in different programming languages (one idea, many implementations), temperature reader (Arduino), writing about interesting things/ making notes ...
+  :hourglass_flowing_sand: WIP: raspberry pie cluster using k3s, REST APIs in different programming languages (one idea, many implementations), temperature reader (Arduino), writing about interesting things/ taking notes ...
 
-  :information_source: Programming Languages: studying CPython Internals, **Go**, **Rust**, C++ and C.
+  :information_source: Programming languages: studying CPython internals, **Go**, **Rust**, **C++**, and C.
 
-  :computer: I’m willing to collaborate on solving problems, recreate, research, and deliver new products/projects.
+  :computer:  I'm willing to collaborate on solving problems, creating, researching and delivering new products/projects.
 
   :telescope: I’m looking to help improve code quality, learn new things, grow as a developer, and drink some great coffee :coffee:.
 
-  :speech_balloon: Ask me about anything, we can together find the answer, but we already know.
+  :speech_balloon: Ask me about anything, we can find the answer together.
+  
   :mailbox: How to reach me -> [Linkedin](https://www.linkedin.com/in/diogo-esteves-a4b420b7/?locale=en_US)
 
-  :bulb: Fun fact: studied German and French language, but most of the time just use it for movies :joy:.
+  :bulb: Fun fact: studied German and French language, but most of the time I only use it for movies :joy:.
 
 ## Languages and Tools
 
