@@ -2,21 +2,21 @@
 
 <h1>Hello everyone  <a target="_blank"><img src="./assets/hi.gif" width="29px"></a></h1>
 
-### I'm Diogo Esteves, graduate in Mechanical and Computer Engineering
+### I'm Diogo Esteves, Degree in Mechanical and Computer Engineering
 
 ## Developer 👨‍💻
 
-  :hourglass_flowing_sand: WIP: raspberry pie cluster using k3s, REST APIs in different programming languages (one idea, many implementations), temperature reader (Arduino), writing about interesting things/ taking notes ...
+  :hourglass_flowing_sand: WIP: raspberry pie cluster using k3s, REST APIs in different programming languages (one idea, many implementations), writing about interesting things/ taking notes ...
 
-  :information_source: Programming languages: studying CPython internals, **Go**, **Rust**, **C++**, and C.
+  :information_source: Programming languages: studying CPython internals, **Go**, **Rust**, **C++**, C and now Haskell.
 
-  :computer:  I'm willing to collaborate on solving problems, creating, researching and delivering new products/projects.
+  :computer:  I am willing to be involved in problem solving, creation, research and delivery of new products/projects.
 
-  :telescope: I’m looking to help improve code quality, learn new things, grow as a developer, and drink some great coffee :coffee:.
+  :telescope: I am interested in helping improve code quality, learning new stuff, growing as a developer, and drinking great coffee. :coffee:.
 
   :speech_balloon: Ask me about anything, we can find the answer together.
   
-  :mailbox: How to reach me -> [Linkedin](https://www.linkedin.com/in/diogo-esteves-a4b420b7/?locale=en_US)
+  :mailbox: How to reach me -> [Linkedin](https://www.linkedin.com/in/diogoesteves42/?locale=en_US)
 
   :bulb: Fun fact: studied German and French language, but most of the time I only use it for movies :joy:.
 
@@ -55,4 +55,6 @@
     <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
   <!-- mariaDB -->
     <a href="https://www.mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="sqlite" width="40" height="40"/> </a>
+  <!-- haskell -->
+    <a href="https://www.haskell.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/haskell/haskell-icon.svg" alt="haskell" width="40" height="40"/> </a>
 </p>
