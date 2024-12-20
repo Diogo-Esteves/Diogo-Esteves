@@ -2,7 +2,6 @@
 
 <h1>Hello everyone  <a target="_blank"><img src="./assets/hi.gif" width="29px"></a></h1>
 
-### I'm Diogo Esteves, Degree in Mechanical and Computer Engineering
 
 ## Developer 👨‍💻
 
@@ -10,7 +9,7 @@
 
   :information_source: Programming languages: studying CPython internals, **Go**, **Rust**, **C++**, C and now Haskell.
 
-  :computer:  I am willing to be involved in problem solving, creation, research and delivery of new products/projects.
+  :computer:  I am willing to be involved in problem-solving, creation, research and delivery of new products/projects.
 
   :telescope: I am interested in helping improve code quality, learning new stuff, growing as a developer, and drinking great coffee. :coffee:.
 
@@ -18,7 +17,7 @@
   
   :mailbox: How to reach me -> [Linkedin](https://www.linkedin.com/in/diogoesteves42/?locale=en_US)
 
-  :bulb: Fun fact: studied German and French language, but most of the time I only use it for movies :joy:.
+  :bulb: Fun fact: I studied German and French language, but most of the time I only use it for movies :joy:.
 
 ## Languages and Tools
 
